@@ -1,0 +1,12 @@
+{
+        "name": "MyNFT",
+        "description": "It's amazing how far have we become",
+        "symbol": "DCN",
+        "image": "https://imgur.com/a/34N35KW",
+        "attributes": [
+            {
+                "trait_type": "TYPE",
+                "value": "VALUE"
+            }
+        ]
+    }   
